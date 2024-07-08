@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-06T18:16:16 IST" name="Suite" finished-at="2024-07-06T18:17:03 IST" duration-ms="46408">
+    <groups>
+      <group name="Purchase">
+        <method signature="StandAloneTestforpageobjectTest.StandAloneTestforpageobject(java.util.HashMap)[pri:0, instance:SeleniumFramework.Tests.StandAloneTestforpageobjectTest@43bc63a3]" name="StandAloneTestforpageobject" class="SeleniumFramework.Tests.StandAloneTestforpageobjectTest"/>
+      </group> <!-- Purchase -->
+    </groups>
+    <test started-at="2024-07-06T18:16:16 IST" name="Error Validation Test" finished-at="2024-07-06T18:16:16 IST" duration-ms="20">
+    </test> <!-- Error Validation Test -->
+    <test started-at="2024-07-06T18:16:16 IST" name="StandAlone Test" finished-at="2024-07-06T18:17:03 IST" duration-ms="46408">
+      <class name="SeleniumFramework.Tests.StandAloneTestforpageobjectTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:SeleniumFramework.Tests.StandAloneTestforpageobjectTest@43bc63a3]" started-at="2024-07-06T18:16:17 IST" name="launchApplication" finished-at="2024-07-06T18:16:23 IST" duration-ms="6273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="StandAloneTestforpageobject(java.util.HashMap)[pri:0, instance:SeleniumFramework.Tests.StandAloneTestforpageobjectTest@43bc63a3]" started-at="2024-07-06T18:16:23 IST" name="StandAloneTestforpageobject" data-provider="getData" finished-at="2024-07-06T18:16:48 IST" duration-ms="24677" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=@Samkumar1418, email=shashikhmouli@gmail.com, productName=ZARA COAT 3}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StandAloneTestforpageobject -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:SeleniumFramework.Tests.StandAloneTestforpageobjectTest@43bc63a3]" started-at="2024-07-06T18:16:48 IST" name="teardown" finished-at="2024-07-06T18:16:50 IST" duration-ms="2047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:SeleniumFramework.Tests.StandAloneTestforpageobjectTest@43bc63a3]" started-at="2024-07-06T18:16:50 IST" name="launchApplication" finished-at="2024-07-06T18:16:58 IST" duration-ms="8517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="StandAloneTestforpageobject(java.util.HashMap)[pri:0, instance:SeleniumFramework.Tests.StandAloneTestforpageobjectTest@43bc63a3]" started-at="2024-07-06T18:16:58 IST" name="StandAloneTestforpageobject" data-provider="getData" finished-at="2024-07-06T18:17:01 IST" duration-ms="2953" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=Samkumar@1814, email=Shankar@gmail.com, productName=ADIDAS ORIGINAL}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StandAloneTestforpageobject -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:SeleniumFramework.Tests.StandAloneTestforpageobjectTest@43bc63a3]" started-at="2024-07-06T18:17:01 IST" name="teardown" finished-at="2024-07-06T18:17:03 IST" duration-ms="1465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- SeleniumFramework.Tests.StandAloneTestforpageobjectTest -->
+    </test> <!-- StandAlone Test -->
+  </suite> <!-- Suite -->
+</testng-results>

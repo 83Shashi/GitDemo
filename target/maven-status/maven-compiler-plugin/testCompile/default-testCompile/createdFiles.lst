@@ -1,0 +1,12 @@
+cucumber\testNgTestRunner.class
+SeleniumFramework\Tests\Test1.class
+SeleniumFramework\TestComponents\BaseTest.class
+SeleniumFramework\data\dataReader$1.class
+SeleniumFramework\Tests\StandAloneTestforpageobjectTest.class
+SeleniumFramework\TestComponents\Listners.class
+SeleniumFramework\Tests\ErrorValidationTest.class
+SeleniumFramework\data\dataReader.class
+SeleniumFramework\TestComponents\Retry.class
+SeleniumFramework\stepDefinition\stepDefinitionImplementation.class
+SeleniumFramework\TestComponents\BaseTest$1.class
+SeleniumFramework\Tests\StandAloneTest.class
